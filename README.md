@@ -1,12 +1,14 @@
 # Workable Temperature
 
-[example](example.png)
+![example](example.png)
 
 A [Vintage Story](https://vintagestory.at) mod to show the workable temperature for all workable items.
 
 This mod is licensed under MIT. Contributions (including translations) are welcome!
 
 This mod patches the base game, so if it causes any incompatibilities with other mods, please let me know.
+
+This mod is client-side only.
 
 ## Building
 
