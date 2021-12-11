@@ -1,0 +1,14 @@
+{
+	"type": "code",
+	"name": "Workable Temperature",
+	"modid": "workabletemp",
+	"version": "1.0.0",
+	
+	"description" : "Show workable temperature for all workable items",
+	"website": "https://github.com/ThePuzzlemaker/WorkableTemp",
+	"authors": [ "ThePuzzlemaker" ],
+	
+	"dependencies": {
+		"game": "1.15.10"
+	}
+}
