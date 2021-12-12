@@ -9,6 +9,6 @@
 	"authors": [ "ThePuzzlemaker" ],
 	
 	"dependencies": {
-		"game": "1.15.10"
+		"game": "1.16.0-pre.8"
 	}
 }
