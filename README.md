@@ -1,5 +1,7 @@
 # Workable Temperature
 
+**OBSOLETE**: use [Extra Info](https://mods.vintagestory.at/extrainfo)
+
 ![example](example.png)
 
 A [Vintage Story](https://vintagestory.at) mod to show the workable temperature for all workable items.
